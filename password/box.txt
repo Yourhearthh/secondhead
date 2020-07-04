@@ -1,0 +1,2 @@
+boxremember=true
+boxauto=false
